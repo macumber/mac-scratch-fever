@@ -1,0 +1,12 @@
+// definition of blocks
+{
+  title: "mac-scratch-fever",
+  url: 'https://macumber.github.io/mac-scratch-fever/',
+  descriptor: {
+    en: {
+      blocks: [
+        ['w', 'Set lights %s %n %n %n %s', 'set_lights', 'all', 0, 0, 0, 'Auth Token']
+      ]
+    }
+  }
+}
