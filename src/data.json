@@ -5,7 +5,10 @@
   descriptor: {
     en: {
       blocks: [
-        ['w', 'Set lights %s %n %n %n %s', 'set_lights', 'all', 0, 0, 0, 'Auth Token']
+        [' ', 'Set hue %s %n %s', 'set_hue', 'all', 50, 'Auth Token'],
+        [' ', 'Set saturation %s %n %s', 'set_saturation', 'all', 50, 'Auth Token'],
+        [' ', 'Set brightness %s %n %s', 'set_brightness', 'all', 50, 'Auth Token'],
+        [' ', 'Set HSV %s %n %n %n %s', 'set_hsv', 'all', 50, 50, 50, 'Auth Token']
       ]
     }
   }

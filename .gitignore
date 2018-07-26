@@ -1,7 +1,7 @@
 # Created by https://www.gitignore.io/api/node,osx
 
 # User ids and passwords
-secrets.txt
+secrets*
 
 ### Node ###
 # Logs
